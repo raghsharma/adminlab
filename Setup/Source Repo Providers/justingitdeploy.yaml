@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:JOdac9oAQOiUB6MVGtAA2Q
+url: https://github.com/justinlamora/techadminlab
+urlType: REPO
+username: git
